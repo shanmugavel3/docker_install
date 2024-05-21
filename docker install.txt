@@ -1,0 +1,24 @@
+intall ubuntu
+
+then  in open powershell
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+then
+
+sudo apt update
+sudo apt upgrade
+
+date Ubuntu (optional but recommended):
+
+
+error shows visit this website 
+https://stackoverflow.com/questions/72299444/docker-desktop-doesnt-install-saying-docker-ce-cli-not-installable
+
+sudo bash 
+sudo apt-get update && apt-get install -y docker.io
+
+error shows youtube link 
+https://www.youtube.com/watch?v=F7tvMSoLpa0
+
+
+
